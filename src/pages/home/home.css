@@ -1,0 +1,29 @@
+.homepage-content {
+  background-color: #ce2829;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.homepage-content-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  object-fit: contain;
+  aspect-ratio: 2/1;
+  min-height: 100vh;
+   
+}
+.homepage-content-text {
+  color: white;
+  position: absolute;
+}
+.homepage-content-btn {
+  margin-top: 180px;
+  position: absolute;
+  color: black;
+  background-color: #FDC913;
+  border-radius: 50px;
+}

@@ -1,0 +1,17 @@
+.order-card {display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #CE2829;
+    height: 100vh;
+}  
+
+.order-success {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #ce2829;
+    height: 100vh;
+    color: white;
+    font-family: Roboto Condensed;
+    font-weight: normal;
+}
